@@ -2,7 +2,6 @@
 
 ## Framewor 🏗️
 ```
-
 Django
 Rest Api
 Vue JS
