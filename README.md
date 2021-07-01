@@ -1,20 +1,20 @@
-# FullStack :wrench:
+#📦️FullStack📦️
 
-## Framework:
+##🏗️Framework🏗️
 ```
 Django
 Rest Api
 Vue JS
 ```
-### Security:
+###🛂Security🛂
 ```
 AJAX
 ```
-#### Database:
+#### :card_file_box:Databas:card_file_box:
 ```
 mySQL
 ```
-##### Frontend:
+##### :globe_with_meridians:Frontend:globe_with_meridians:
 ```
 CSS
 HTML
