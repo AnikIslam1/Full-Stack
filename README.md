@@ -1,7 +1,8 @@
-#FullStack📦️
+#FullStack
 
-##Framework🏗️
+##Framewor
 ```
+🏗️
 Django
 Rest Api
 Vue JS
