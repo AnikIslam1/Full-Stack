@@ -7,15 +7,15 @@ Django
 Rest Api
 Vue JS
 ```
-### Security🛂
+## Security 🛂
 ```
 AJAX
 ```
-#### Databas:card_file_box:
+## Database :card_file_box:
 ```
 mySQL
 ```
-##### Frontend:globe_with_meridians:
+## Frontend :globe_with_meridians:
 ```
 CSS
 HTML
