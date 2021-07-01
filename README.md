@@ -1,6 +1,6 @@
 # FullStack :package:
 
-## Framewor 🏗️
+## Framework 🏗️
 ```
 Django
 Rest Api
