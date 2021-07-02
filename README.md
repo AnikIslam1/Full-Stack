@@ -4,7 +4,7 @@
 ```
 Django
 Rest Api
-Vue JS
+
 ```
 ## Security 🛂
 ```
@@ -16,7 +16,6 @@ mySQL
 ```
 ## Frontend :globe_with_meridians:
 ```
-CSS
-HTML
+Vue JS
 BootStrap
 ```
