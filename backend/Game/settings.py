@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-#pr4)t457zfxv^vao56*zu@2w&y8t6b%q-d0kg8ms75^bklx)!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#Host setting with Heroku APP and localHost
+ALLOWED_HOSTS = ['anik-backend001.herokuapp.com','127.0.0.1']
 
 
 # Application definition
@@ -82,8 +83,12 @@ WSGI_APPLICATION = 'Game.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd8bhkvjv10jqk9',
+        'USER': 'hxxpuiazkgwcom',
+        'PASSWORD': 'a5b096b9d02f35d66a48d420bc0b993465fea0f4e23c9c66ff56b712453e5a44', #imported from hosted mail to the user
+        'PORT': 5432,
+        'HOST': 'ec2-52-0-67-144.compute-1.amazonaws.com',
     }
 }
 

@@ -11,6 +11,7 @@ class RegisterSerializer(ModelSerializer):
             'id',
             'name',
             'mail',
+            'password',
         ]
 #         extra_kwords = {
 #             # not needed now
