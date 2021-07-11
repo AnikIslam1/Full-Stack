@@ -12,7 +12,7 @@ AJAX
 ```
 ## Database :card_file_box:
 ```
-mySQL
+postgresSQL
 ```
 ## Frontend :globe_with_meridians:
 ```
