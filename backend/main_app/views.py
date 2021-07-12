@@ -4,9 +4,11 @@
 # from django.http import HttpResponse
 # from django.http import JsonResponse
 # from django.views.generic import GenericViewError, TemplateView
-# from rest_framework import generics
+#from typing import Generic
+#from rest_framework import generics
 from rest_framework.viewsets import ModelViewSet
-
+#from rest_framework.response import Response
+#from rest_framework import status
 from .models import RegisterModel
 from .serializers import RegisterSerializer
 
@@ -17,6 +19,8 @@ from .serializers import RegisterSerializer
 class RegistersViewSet(ModelViewSet):
     queryset = RegisterModel.objects.all()
     serializer_class = RegisterSerializer
+
+
 
 #index.html link
 # class HomeView(TemplateView):
